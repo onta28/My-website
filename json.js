@@ -12,7 +12,7 @@ console.log(opj)
 // javascript object to json
 let ob=
     {
-        name:"Who the best in the world",
+        name:"My name is onta handsome boy",
         age:22,
         phone:null,
         status:true
